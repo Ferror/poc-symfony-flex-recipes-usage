@@ -5,9 +5,11 @@
             "repo": "github.com/ferror/poc-symfony-flex-recipes-server",
             "branch": "master",
             "version": "dev-master",
-            "ref": "2c6d0fb03fc5a8b56af28a7ae841f4f349ba0e27"
+            "ref": "4625cfff70fbf1df5bbdb68d51e109dc48141024"
         },
-        "files": []
+        "files": [
+            "config/recipes-bundle.yaml"
+        ]
     },
     "psr/cache": {
         "version": "3.0.0"
