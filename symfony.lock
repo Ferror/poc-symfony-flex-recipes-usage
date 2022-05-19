@@ -1,4 +1,14 @@
 {
+    "ferror/recipes-bundle": {
+        "version": "9999999.9999999",
+        "recipe": {
+            "repo": "github.com/ferror/poc-symfony-flex-recipes-server",
+            "branch": "master",
+            "version": "1.0",
+            "ref": "36133d85002df866abae7510dd8188c4ebef31d5"
+        },
+        "files": []
+    },
     "psr/cache": {
         "version": "3.0.0"
     },
