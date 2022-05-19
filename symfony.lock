@@ -1,11 +1,11 @@
 {
     "ferror/recipes-bundle": {
-        "version": "dev-master",
+        "version": "9999999.9999999",
         "recipe": {
             "repo": "github.com/ferror/poc-symfony-flex-recipes-server",
             "branch": "master",
             "version": "dev-master",
-            "ref": "0b030d5b1af16c0fb42c275c52d99162e0e6373c"
+            "ref": "2c6d0fb03fc5a8b56af28a7ae841f4f349ba0e27"
         },
         "files": []
     },
