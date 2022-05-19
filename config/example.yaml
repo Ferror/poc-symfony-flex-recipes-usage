@@ -1,0 +1,3 @@
+ferror:
+    recipes-bundle:
+        key: value-from-bundle
